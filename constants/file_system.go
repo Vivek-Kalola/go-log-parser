@@ -1,7 +1,3 @@
-/*
- * Copyright (c) 2023 RevDau Industries (P) Limited
- */
-
 package constants
 
 import (

@@ -1,7 +1,7 @@
 package fortinet
 
 import (
-	"log-processor/elastic"
+	"go-log-parser/elastic"
 	"regexp"
 	"strconv"
 	"strings"
