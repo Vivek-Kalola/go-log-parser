@@ -1,0 +1,10 @@
+{
+  "kafkaBroker": "https://localhost:9200",
+  "kafkaTopic": "fortinet_inbound",
+  "kafkaGroupId": "log-parser",
+  "elasticHost": "https://localhost:9443",
+  "elasticIndex": "fortinet_log",
+  "elasticCreateIndex": "yes",
+  "elasticUsername": "elastic",
+  "elasticPassword": "***************"
+}
